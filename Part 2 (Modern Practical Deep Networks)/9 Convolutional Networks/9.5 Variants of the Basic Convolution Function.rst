@@ -106,7 +106,7 @@ Review:
 .. image:: Figure9.9.PNG
 
 ##################################
-Back prop in conv layer
+Back prop in convolution layer
 ##################################
 
 Back prop of conv layer:
